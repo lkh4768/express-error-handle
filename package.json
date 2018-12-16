@@ -1,0 +1,22 @@
+{
+  "name": "express-error-handle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkh4768/express-error-handle.git"
+  },
+  "author": "kihyeon.wes.lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lkh4768/express-error-handle/issues"
+  },
+  "homepage": "https://github.com/lkh4768/express-error-handle#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
